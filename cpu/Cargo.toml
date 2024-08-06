@@ -1,0 +1,8 @@
+[package]
+name = "cpu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpuid = {git = "https://e.coding.net/g-pxye7583/runeasy/cpuid.git" }
+cxtend = {git = "https://e.coding.net/g-pxye7583/runeasy/cxtend.git" }
